@@ -1,0 +1,38 @@
+.container {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+  }
+  
+  .filter-section {
+    margin-bottom: 20px;
+  }
+  
+  .filter-section button {
+    padding: 10px 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 12px;
+  }
+  
+  .stock-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .stock-table th,
+  .stock-table td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .table-row:hover {
+    background-color: #f0f0f0;
+  }
+  
