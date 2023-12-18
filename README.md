@@ -1,8 +1,11 @@
 # Stock-Analysis-with-Polygon
 
 Pre-requisites:
-In the local machine,
-export POLYGON_API_KEY="your api key" of polygon
+1. In the local machine copy your api key of polygon
+```export POLYGON_API_KEY="your api key"```
+
+
+1. Have installed make in your system.
 -------------------------
 
 Clone the repo and run the below command:
